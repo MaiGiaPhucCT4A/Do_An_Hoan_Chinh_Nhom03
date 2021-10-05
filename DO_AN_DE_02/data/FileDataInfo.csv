@@ -1,0 +1,61 @@
+STT,MSV,Họ và tên,Lớp niên chế,Ngày sinh,Quê quán
+1,AT160101,nguyen luu bang an,AT16A,10/10/2001,ha noi
+2,AT160102,nguyen van du,at16a,2/2/2001,Hà Nội
+3,AT160104,tran nhat anh,AT16A,04/10/2001,ha noi
+4,AT160107,Mai Thành Lợi,AT16A,3/4/2001,Hà Nội
+5,AT160129,thieu thi hoa,AT16A,04/09/2001,bac ninh
+6,AT160138,mai gia bao,AT16A,5/5/2001,Thái Bình
+7,AT160141,nguyen van tai,AT16A,04/04/2001,da nang
+8,AT160143,hoang thanh long,AT16A,12/10/2001,da nang
+9,AT160144,Ngô Thị Toan,AT16A,22/7/2001,Nghệ An
+10,AT160188,mai gia huy,AT16A,4/4/2001,Hà Nội
+11,AT160216,nguyen khac viet,AT16B,07/08/2001,nghe an
+12,AT160242,doan bao ngoc,AT16B,13/02/2001,thai binh
+13,AT160301,doan chung anh,AT16C,04/12/2001,ha noi
+14,AT160308,phan thu giang,AT16C,07/05/2001,nghe an
+15,AT160317,nguyen thi huong giang,AT16C,04/05/2001,bac ninh
+16,AT160318,ngo thanh hai,AT16C,04/08/2001,bac ninh
+17,AT160329,nguyen thinh khang,AT16C,12/08/2001,da nang
+18,AT160331,bui ngoc linh,AT16C,04/11/2001,bac ninh
+19,AT160348,luu thai nguyen,AT16C,04/11/2001,ha noi
+20,AT160353,nguyen tran huyen trang,AT16C,10/11/2001,ha noi
+21,AT160411,mai van du,at16d,1/1/2001,Hà Nội
+22,AT160415,nguyen thanh huyen,AT16D,12/11/2001,da nang
+23,AT160425,nguyen thi mai,AT16D,04/06/2001,bac ninh
+24,AT160427,nguyen thi tuyet,AT16D,05/03/2001,da nang
+25,AT160428,luu thi linh,AT16D,12/09/2001,da nang
+26,AT160433,DDDD,AT16D,2/4/2001,Hà Nội
+27,AT160443,mai thanh thang,AT16D,07/09/2001,thai binh
+28,AT160458,pham thi uyen,AT16D,09/10/2001,nghe an
+29,AT160535,vu tra my,AT16E,04/07/2001,da nang
+30,AT160588,MAI GIA PHUC,AT16F,22/1/2001,Hà Nội
+31,AT160705,tran truc diep,AT16H,07/06/2001,nghe an
+32,AT160708,nguyen van at,AT16H,07/10/2001,thai binh
+33,AT160723,vi xuan lam,AT16H,06/12/2001,da nang
+34,CT020108,pham thai nguyen,CT2AN,07/12/2001,thai binh
+35,CT040101,nguyen van an,CT4A,10/12/2001,ha noi
+36,CT040111,mai gia huy,4a,7/8/2001,Nghệ An
+37,CT040122,mai gia huy a,CT4A,27/2/2007,Thái Bình
+38,CT040133,nguyen hoai ninh,CT4A,14/02/2001,da nang
+39,CT040228,uong thi linh,CT4B,12/12/2001,da nang
+40,CT040229,ngo thai my,CT4B,14/05/2001,da nang
+41,CT040235,tran thai hoai ninh,CT4B,13/02/2001,thai binh
+42,CT040305,nguyen hoai bao,CT4C,9/11/2001,Hà Nội
+43,CT040317,nguyen thanh hai,CT4C,12/3/2001,Hà Nội
+44,CT040324,nguyen quoc huy,CT4C,04/07/2001,bac ninh
+45,CT040356,nguyen thai uy,CT4C,9/12/2001,Hà Nội
+46,CT040399,mai van phu,CT4A,1/3/2001,Thái Bình
+47,CT040426,hoang van long,CT4D,04/10/2001,bac ninh
+48,CT040431,vu quang minh,CT4D,04/04/2001,da nang
+49,CT040478,mai si an,CT4D,2/1/2001,Hà Nội
+50,DT030212,nguyen quoc hai,DT3B,04/12/2001,thanh hoa
+51,DT030213,vu trong phung,DT3B,04/01/2001,thanh hoa
+52,DT030214,ngo thi huyen,DT3B,09/02/2001,thanh hoa
+53,DT030215,nguyen van hiep,DT3B,09/03/2001,thanh hoa
+54,DT030216,pham thi tuyet,DT3B,09/04/2001,thanh hoa
+55,DT030217,ngo thi toan,DT3B,04/05/2001,thanh hoa
+56,DT030218,pham truong giang,DT3B,09/06/2001,thanh hoa
+57,DT030219,mai gia phuc,DT3B,09/07/2001,thanh hoa
+58,DT030220,nguyen van phuc,DT3B,09/08/2001,thanh hoa
+59,DT030222,nguyen tuan tu,DT3B,09/10/2001,hai phong
+60,DT030232,van thai nguyet,DT3B,7/7/2001,Hà Nội

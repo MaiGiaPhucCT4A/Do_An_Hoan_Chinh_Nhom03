@@ -1,0 +1,2351 @@
+[{
+        "maSV": "AT160101",
+        "hoTen": "nguyen luu bang an",
+        "tenLopNC": "AT16A",
+        "ngaySinh": "10/10/2001",
+        "queQuan": "ha noi",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 3.0
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 4.0
+            }, {
+                "tenMonHoc": "the chat",
+                "soTC": 2,
+                "diemMH": 5.0
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 6.0
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 9.0
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 10.0
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 10.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 9.0
+            }]
+    }, {
+        "maSV": "AT160353",
+        "hoTen": "nguyen tran huyen trang",
+        "tenLopNC": "AT16C",
+        "ngaySinh": "10/11/2001",
+        "queQuan": "ha noi",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 6.0
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 3.0
+            }, {
+                "tenMonHoc": "the chat",
+                "soTC": 2,
+                "diemMH": 4.0
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 5.0
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 6.0
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 9.0
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 10.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 8.0
+            }]
+    }, {
+        "maSV": "CT040101",
+        "hoTen": "nguyen van an",
+        "tenLopNC": "CT4A",
+        "ngaySinh": "10/12/2001",
+        "queQuan": "ha noi",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "otomat hinh thuc",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 7.0
+            }]
+    }, {
+        "maSV": "AT160104",
+        "hoTen": "tran nhat anh",
+        "tenLopNC": "AT16A",
+        "ngaySinh": "04/10/2001",
+        "queQuan": "ha noi",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "the chat",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 7.0
+            }]
+    }, {
+        "maSV": "AT160348",
+        "hoTen": "luu thai nguyen",
+        "tenLopNC": "AT16C",
+        "ngaySinh": "04/11/2001",
+        "queQuan": "ha noi",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "the chat",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 7.0
+            }]
+    }, {
+        "maSV": "AT160301",
+        "hoTen": "doan chung anh",
+        "tenLopNC": "AT16C",
+        "ngaySinh": "04/12/2001",
+        "queQuan": "ha noi",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "the chat",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 8.2
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 8.2
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 9.0
+            }]
+    }, {
+        "maSV": "AT160458",
+        "hoTen": "pham thi uyen",
+        "tenLopNC": "AT16D",
+        "ngaySinh": "09/10/2001",
+        "queQuan": "nghe an",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 8.2
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 3.0
+            }, {
+                "tenMonHoc": "the chat",
+                "soTC": 2,
+                "diemMH": 3.0
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 3.0
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 3.0
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 7.0
+            }]
+    }, {
+        "maSV": "CT040305",
+        "hoTen": "nguyen hoai bao",
+        "tenLopNC": "CT4C",
+        "ngaySinh": "09/11/2001",
+        "queQuan": "nghe an",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 8.2
+            }, {
+                "tenMonHoc": "otomat hinh thuc",
+                "soTC": 2,
+                "diemMH": 8.2
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 8.3
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 8.4
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 8.5
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 8.6
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 8.7
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 8.8
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 8.9
+            }]
+    }, {
+        "maSV": "CT040356",
+        "hoTen": "nguyen thai uy",
+        "tenLopNC": "CT4C",
+        "ngaySinh": "09/12/2001",
+        "queQuan": "nghe an",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 9.0
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 9.1
+            }, {
+                "tenMonHoc": "otomat hinh thuc",
+                "soTC": 2,
+                "diemMH": 9.2
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 9.3
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 9.4
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 9.5
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 9.6
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 9.7
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 9.8
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 9.9
+            }]
+    }, {
+        "maSV": "AT160308",
+        "hoTen": "phan thu giang",
+        "tenLopNC": "AT16C",
+        "ngaySinh": "07/05/2001",
+        "queQuan": "nghe an",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 10.0
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 2.4
+            }, {
+                "tenMonHoc": "the chat",
+                "soTC": 2,
+                "diemMH": 2.5
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 2.6
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 2.7
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 2.8
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 2.9
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 3.0
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 3.1
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 3.2
+            }]
+    }, {
+        "maSV": "AT160705",
+        "hoTen": "tran truc diep",
+        "tenLopNC": "AT16H",
+        "ngaySinh": "07/06/2001",
+        "queQuan": "nghe an",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 3.3
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 3.4
+            }, {
+                "tenMonHoc": "the chat",
+                "soTC": 2,
+                "diemMH": 3.5
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 3.6
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 3.7
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 3.8
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 3.9
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 4.0
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 4.1
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 4.2
+            }]
+    }, {
+        "maSV": "DT030232",
+        "hoTen": "van thai nguyet",
+        "tenLopNC": "DT3B",
+        "ngaySinh": "07/07/2001",
+        "queQuan": "nghe an",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 4.3
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 4.4
+            }, {
+                "tenMonHoc": "dien tu tuong tu",
+                "soTC": 2,
+                "diemMH": 4.5
+            }, {
+                "tenMonHoc": "dien tu so",
+                "soTC": 2,
+                "diemMH": 4.6
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 4.7
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 4.8
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 4.9
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 5.0
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 5.1
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 5.2
+            }]
+    }, {
+        "maSV": "AT160216",
+        "hoTen": "nguyen khac viet",
+        "tenLopNC": "AT16B",
+        "ngaySinh": "07/08/2001",
+        "queQuan": "nghe an",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 5.3
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 5.4
+            }, {
+                "tenMonHoc": "the chat",
+                "soTC": 2,
+                "diemMH": 5.5
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 5.6
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 5.7
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 5.8
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 5.9
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 6.0
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 6.1
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 6.2
+            }]
+    }, {
+        "maSV": "AT160443",
+        "hoTen": "mai thanh thang",
+        "tenLopNC": "AT16D",
+        "ngaySinh": "07/09/2001",
+        "queQuan": "thai binh",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 6.3
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 6.4
+            }, {
+                "tenMonHoc": "the chat",
+                "soTC": 2,
+                "diemMH": 6.5
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 6.6
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 6.7
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 6.8
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 6.9
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 7.1
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 7.2
+            }]
+    }, {
+        "maSV": "AT160708",
+        "hoTen": "nguyen van at",
+        "tenLopNC": "AT16H",
+        "ngaySinh": "07/10/2001",
+        "queQuan": "thai binh",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 7.3
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 7.4
+            }, {
+                "tenMonHoc": "the chat",
+                "soTC": 2,
+                "diemMH": 7.5
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 7.6
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 7.7
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 7.8
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 7.9
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 8.1
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 8.2
+            }]
+    }, {
+        "maSV": "CT040242",
+        "hoTen": "nguyen van tai",
+        "tenLopNC": "CT4B",
+        "ngaySinh": "07/11/2001",
+        "queQuan": "thai binh",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 8.3
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 8.4
+            }, {
+                "tenMonHoc": "otomat hinh thuc",
+                "soTC": 2,
+                "diemMH": 8.5
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 8.6
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 8.7
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 8.8
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 8.9
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 9.0
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 9.1
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 9.2
+            }]
+    }, {
+        "maSV": "CT020108",
+        "hoTen": "pham thai nguyen",
+        "tenLopNC": "CT2AN",
+        "ngaySinh": "07/12/2001",
+        "queQuan": "thai binh",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 9.3
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 9.4
+            }, {
+                "tenMonHoc": "otomat hinh thuc",
+                "soTC": 2,
+                "diemMH": 9.5
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 9.6
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 9.7
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 9.8
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 9.9
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 10.0
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 1.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 1.1
+            }]
+    }, {
+        "maSV": "CT040235",
+        "hoTen": "tran thai hoai ninh",
+        "tenLopNC": "CT4B",
+        "ngaySinh": "13/02/2001",
+        "queQuan": "thai binh",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 1.2
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 1.3
+            }, {
+                "tenMonHoc": "otomat hinh thuc",
+                "soTC": 2,
+                "diemMH": 1.4
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 1.5
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 1.6
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 1.7
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 1.8
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 1.9
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 2.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 2.1
+            }]
+    }, {
+        "maSV": "AT160242",
+        "hoTen": "doan bao ngoc",
+        "tenLopNC": "AT16B",
+        "ngaySinh": "13/02/2001",
+        "queQuan": "thai binh",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 2.2
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 2.3
+            }, {
+                "tenMonHoc": "the chat",
+                "soTC": 2,
+                "diemMH": 2.4
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 2.5
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 2.6
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 2.7
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 2.8
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 2.9
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 3.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 3.1
+            }]
+    }, {
+        "maSV": "CT040133",
+        "hoTen": "nguyen hoai ninh",
+        "tenLopNC": "CT4A",
+        "ngaySinh": "14/02/2001",
+        "queQuan": "da nang",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 3.2
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 3.3
+            }, {
+                "tenMonHoc": "otomat hinh thuc",
+                "soTC": 2,
+                "diemMH": 3.4
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 3.5
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 3.6
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 3.7
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 3.8
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 3.9
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 4.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 4.1
+            }]
+    }, {
+        "maSV": "CT040317",
+        "hoTen": "nguyen thanh hai",
+        "tenLopNC": "CT4C",
+        "ngaySinh": "12/03/2001",
+        "queQuan": "da nang",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 4.2
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 4.3
+            }, {
+                "tenMonHoc": "otomat hinh thuc",
+                "soTC": 2,
+                "diemMH": 4.4
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 4.5
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 4.6
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 4.7
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 4.8
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 4.9
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 5.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 5.1
+            }]
+    }, {
+        "maSV": "CT040431",
+        "hoTen": "vu quang minh",
+        "tenLopNC": "CT4D",
+        "ngaySinh": "04/04/2001",
+        "queQuan": "da nang",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 5.2
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 5.3
+            }, {
+                "tenMonHoc": "otomat hinh thuc",
+                "soTC": 2,
+                "diemMH": 5.4
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 5.5
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 5.6
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 5.7
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 5.8
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 5.9
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 6.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 6.1
+            }]
+    }, {
+        "maSV": "CT040229",
+        "hoTen": "ngo thai my",
+        "tenLopNC": "CT4B",
+        "ngaySinh": "14/05/2001",
+        "queQuan": "da nang",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 6.2
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 6.3
+            }, {
+                "tenMonHoc": "otomat hinh thuc",
+                "soTC": 2,
+                "diemMH": 6.4
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 6.5
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 6.6
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 6.7
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 6.8
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 6.9
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 7.1
+            }]
+    }, {
+        "maSV": "AT160723",
+        "hoTen": "vi xuan lam",
+        "tenLopNC": "AT16H",
+        "ngaySinh": "06/12/2001",
+        "queQuan": "da nang",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 7.2
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 7.3
+            }, {
+                "tenMonHoc": "the chat",
+                "soTC": 2,
+                "diemMH": 7.4
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 7.5
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 7.6
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 7.7
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 7.8
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 7.9
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 8.1
+            }]
+    }, {
+        "maSV": "AT160535",
+        "hoTen": "vu tra my",
+        "tenLopNC": "AT16E",
+        "ngaySinh": "04/07/2001",
+        "queQuan": "da nang",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 8.2
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 8.3
+            }, {
+                "tenMonHoc": "the chat",
+                "soTC": 2,
+                "diemMH": 8.4
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 8.5
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 8.6
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 8.7
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 8.8
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 8.9
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 9.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 9.1
+            }]
+    }, {
+        "maSV": "AT160329",
+        "hoTen": "nguyen thinh khang",
+        "tenLopNC": "AT16C",
+        "ngaySinh": "12/08/2001",
+        "queQuan": "da nang",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 9.2
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 9.3
+            }, {
+                "tenMonHoc": "the chat",
+                "soTC": 2,
+                "diemMH": 9.4
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 9.5
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 9.6
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 9.7
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 9.8
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 9.9
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 10.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 5.0
+            }]
+    }, {
+        "maSV": "AT160428",
+        "hoTen": "luu thi linh",
+        "tenLopNC": "AT16D",
+        "ngaySinh": "12/09/2001",
+        "queQuan": "da nang",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 5.0
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 5.0
+            }, {
+                "tenMonHoc": "the chat",
+                "soTC": 2,
+                "diemMH": 5.0
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 5.0
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 5.0
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 5.0
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 5.0
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 5.0
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 5.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 5.0
+            }]
+    }, {
+        "maSV": "AT160143",
+        "hoTen": "hoang thanh long",
+        "tenLopNC": "AT16A",
+        "ngaySinh": "12/10/2001",
+        "queQuan": "da nang",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 5.0
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 5.0
+            }, {
+                "tenMonHoc": "the chat",
+                "soTC": 2,
+                "diemMH": 5.0
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 5.0
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 5.0
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 5.0
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 5.0
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 5.0
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 5.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 5.0
+            }]
+    }, {
+        "maSV": "AT160415",
+        "hoTen": "nguyen thanh huyen",
+        "tenLopNC": "AT16D",
+        "ngaySinh": "12/11/2001",
+        "queQuan": "da nang",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 5.0
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 5.0
+            }, {
+                "tenMonHoc": "the chat",
+                "soTC": 2,
+                "diemMH": 5.0
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 5.0
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 5.0
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 4.0
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 4.0
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 4.0
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 4.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 4.0
+            }]
+    }, {
+        "maSV": "CT040228",
+        "hoTen": "uong thi linh",
+        "tenLopNC": "CT4B",
+        "ngaySinh": "12/12/2001",
+        "queQuan": "da nang",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 4.0
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 4.0
+            }, {
+                "tenMonHoc": "otomat hinh thuc",
+                "soTC": 2,
+                "diemMH": 4.0
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 4.0
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 4.0
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 4.0
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 4.0
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 4.0
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 4.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 4.0
+            }]
+    }, {
+        "maSV": "AT160427",
+        "hoTen": "nguyen thi tuyet",
+        "tenLopNC": "AT16D",
+        "ngaySinh": "05/03/2001",
+        "queQuan": "da nang",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 4.0
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 4.0
+            }, {
+                "tenMonHoc": "the chat",
+                "soTC": 2,
+                "diemMH": 4.0
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 7.0
+            }]
+    }, {
+        "maSV": "AT160141",
+        "hoTen": "nguyen van tai",
+        "tenLopNC": "AT16A",
+        "ngaySinh": "04/04/2001",
+        "queQuan": "da nang",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "the chat",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 7.0
+            }]
+    }, {
+        "maSV": "AT160317",
+        "hoTen": "nguyen thi huong giang",
+        "tenLopNC": "AT16C",
+        "ngaySinh": "04/05/2001",
+        "queQuan": "bac ninh",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "the chat",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 8.0
+            }]
+    }, {
+        "maSV": "AT160425",
+        "hoTen": "nguyen thi mai",
+        "tenLopNC": "AT16D",
+        "ngaySinh": "04/06/2001",
+        "queQuan": "bac ninh",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "the chat",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 4.1
+            }]
+    }, {
+        "maSV": "CT040324",
+        "hoTen": "nguyen quoc huy",
+        "tenLopNC": "CT4C",
+        "ngaySinh": "04/07/2001",
+        "queQuan": "bac ninh",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 4.2
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 4.3
+            }, {
+                "tenMonHoc": "otomat hinh thuc",
+                "soTC": 2,
+                "diemMH": 4.4
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 4.5
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 4.6
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 4.7
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 4.8
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 4.9
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 5.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 5.1
+            }]
+    }, {
+        "maSV": "AT160318",
+        "hoTen": "ngo thanh hai",
+        "tenLopNC": "AT16C",
+        "ngaySinh": "04/08/2001",
+        "queQuan": "bac ninh",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 5.2
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 5.3
+            }, {
+                "tenMonHoc": "the chat",
+                "soTC": 2,
+                "diemMH": 5.4
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 5.5
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 5.6
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 5.7
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 5.8
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 5.9
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 6.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 6.1
+            }]
+    }, {
+        "maSV": "AT160129",
+        "hoTen": "thieu thi hoa",
+        "tenLopNC": "AT16A",
+        "ngaySinh": "04/09/2001",
+        "queQuan": "bac ninh",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 6.2
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 6.3
+            }, {
+                "tenMonHoc": "the chat",
+                "soTC": 2,
+                "diemMH": 6.4
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 6.5
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 6.6
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 6.7
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 6.8
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 6.9
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 7.1
+            }]
+    }, {
+        "maSV": "CT040426",
+        "hoTen": "hoang van long",
+        "tenLopNC": "CT4D",
+        "ngaySinh": "04/10/2001",
+        "queQuan": "bac ninh",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 7.2
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 7.3
+            }, {
+                "tenMonHoc": "otomat hinh thuc",
+                "soTC": 2,
+                "diemMH": 7.4
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 7.5
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 7.6
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 7.7
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 7.8
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 7.9
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 8.1
+            }]
+    }, {
+        "maSV": "AT160331",
+        "hoTen": "bui ngoc linh",
+        "tenLopNC": "AT16C",
+        "ngaySinh": "04/11/2001",
+        "queQuan": "bac ninh",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 8.2
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 8.3
+            }, {
+                "tenMonHoc": "the chat",
+                "soTC": 2,
+                "diemMH": 8.4
+            }, {
+                "tenMonHoc": "quan tri mang",
+                "soTC": 2,
+                "diemMH": 8.5
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 8.6
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 8.7
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 8.8
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 8.9
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 9.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 9.1
+            }]
+    }, {
+        "maSV": "DT030212",
+        "hoTen": "nguyen quoc hai",
+        "tenLopNC": "DT3B",
+        "ngaySinh": "04/12/2001",
+        "queQuan": "thanh hoa",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 9.2
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 9.3
+            }, {
+                "tenMonHoc": "dien tu tuong tu",
+                "soTC": 2,
+                "diemMH": 9.4
+            }, {
+                "tenMonHoc": "dien tu so",
+                "soTC": 2,
+                "diemMH": 9.5
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 9.6
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 9.7
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 9.8
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 9.9
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 10.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 2.0
+            }]
+    }, {
+        "maSV": "DT030213",
+        "hoTen": "vu trong phung",
+        "tenLopNC": "DT3B",
+        "ngaySinh": "04/01/2001",
+        "queQuan": "thanh hoa",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 2.0
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 9.0
+            }, {
+                "tenMonHoc": "dien tu tuong tu",
+                "soTC": 2,
+                "diemMH": 9.0
+            }, {
+                "tenMonHoc": "dien tu so",
+                "soTC": 2,
+                "diemMH": 9.0
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 9.0
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 9.0
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 9.0
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 9.0
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 9.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 9.0
+            }]
+    }, {
+        "maSV": "DT030214",
+        "hoTen": "ngo thi huyen",
+        "tenLopNC": "DT3B",
+        "ngaySinh": "09/02/2001",
+        "queQuan": "thanh hoa",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 9.0
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 9.0
+            }, {
+                "tenMonHoc": "dien tu tuong tu",
+                "soTC": 2,
+                "diemMH": 9.0
+            }, {
+                "tenMonHoc": "dien tu so",
+                "soTC": 2,
+                "diemMH": 9.0
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 9.0
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 9.0
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 6.0
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 6.0
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 6.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 6.0
+            }]
+    }, {
+        "maSV": "DT030215",
+        "hoTen": "nguyen van hiep",
+        "tenLopNC": "DT3B",
+        "ngaySinh": "09/03/2001",
+        "queQuan": "thanh hoa",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 6.0
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 6.0
+            }, {
+                "tenMonHoc": "dien tu tuong tu",
+                "soTC": 2,
+                "diemMH": 6.0
+            }, {
+                "tenMonHoc": "dien tu so",
+                "soTC": 2,
+                "diemMH": 6.0
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 6.0
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 8.0
+            }]
+    }, {
+        "maSV": "DT030216",
+        "hoTen": "pham thi tuyet",
+        "tenLopNC": "DT3B",
+        "ngaySinh": "09/04/2001",
+        "queQuan": "thanh hoa",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "dien tu tuong tu",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "dien tu so",
+                "soTC": 2,
+                "diemMH": 6.1
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 6.2
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 6.3
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 6.4
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 6.5
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 6.6
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 6.7
+            }]
+    }, {
+        "maSV": "DT030217",
+        "hoTen": "ngo thi toan",
+        "tenLopNC": "DT3B",
+        "ngaySinh": "04/05/2001",
+        "queQuan": "thanh hoa",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 6.8
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 6.9
+            }, {
+                "tenMonHoc": "dien tu tuong tu",
+                "soTC": 2,
+                "diemMH": 7.0
+            }, {
+                "tenMonHoc": "dien tu so",
+                "soTC": 2,
+                "diemMH": 7.1
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 7.2
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 7.3
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 7.4
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 7.5
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 7.6
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 7.7
+            }]
+    }, {
+        "maSV": "DT030218",
+        "hoTen": "pham truong giang",
+        "tenLopNC": "DT3B",
+        "ngaySinh": "09/06/2001",
+        "queQuan": "thanh hoa",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 7.8
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 7.9
+            }, {
+                "tenMonHoc": "dien tu tuong tu",
+                "soTC": 2,
+                "diemMH": 8.0
+            }, {
+                "tenMonHoc": "dien tu so",
+                "soTC": 2,
+                "diemMH": 1.1
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 1.2
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 1.3
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 1.4
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 1.5
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 1.6
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 1.7
+            }]
+    }, {
+        "maSV": "DT030219",
+        "hoTen": "mai gia phuc",
+        "tenLopNC": "DT3B",
+        "ngaySinh": "09/07/2001",
+        "queQuan": "thanh hoa",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 1.8
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 1.9
+            }, {
+                "tenMonHoc": "dien tu tuong tu",
+                "soTC": 2,
+                "diemMH": 2.0
+            }, {
+                "tenMonHoc": "dien tu so",
+                "soTC": 2,
+                "diemMH": 2.1
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 2.2
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 2.3
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 2.4
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 2.5
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 2.6
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 2.7
+            }]
+    }, {
+        "maSV": "DT030220",
+        "hoTen": "nguyen van phuc",
+        "tenLopNC": "DT3B",
+        "ngaySinh": "09/08/2001",
+        "queQuan": "thanh hoa",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 2.8
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 2.9
+            }, {
+                "tenMonHoc": "dien tu tuong tu",
+                "soTC": 2,
+                "diemMH": 3.0
+            }, {
+                "tenMonHoc": "dien tu so",
+                "soTC": 2,
+                "diemMH": 3.1
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 3.2
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 3.3
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 3.4
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 3.5
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 3.6
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 3.7
+            }]
+    }, {
+        "maSV": "DT030221",
+        "hoTen": "dang hoang phuc",
+        "tenLopNC": "DT3B",
+        "ngaySinh": "09/09/2001",
+        "queQuan": "thanh hoa",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 3.8
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 3.9
+            }, {
+                "tenMonHoc": "dien tu tuong tu",
+                "soTC": 2,
+                "diemMH": 4.0
+            }, {
+                "tenMonHoc": "dien tu so",
+                "soTC": 2,
+                "diemMH": 4.1
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 4.2
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 4.3
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 4.4
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 4.5
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 4.6
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 4.7
+            }]
+    }, {
+        "maSV": "DT030222",
+        "hoTen": "nguyen tuan tu",
+        "tenLopNC": "DT3B",
+        "ngaySinh": "09/10/2001",
+        "queQuan": "hai phong",
+        "dsMonHoc": [{
+                "tenMonHoc": "vat li",
+                "soTC": 2,
+                "diemMH": 4.8
+            }, {
+                "tenMonHoc": "ky nang mem",
+                "soTC": 2,
+                "diemMH": 4.9
+            }, {
+                "tenMonHoc": "dien tu tuong tu",
+                "soTC": 2,
+                "diemMH": 5.0
+            }, {
+                "tenMonHoc": "dien tu so",
+                "soTC": 2,
+                "diemMH": 5.1
+            }, {
+                "tenMonHoc": "li thuyet csdl",
+                "soTC": 2,
+                "diemMH": 5.2
+            }, {
+                "tenMonHoc": "toan cao cap a1",
+                "soTC": 2,
+                "diemMH": 5.3
+            }, {
+                "tenMonHoc": "toan cao cap a3",
+                "soTC": 2,
+                "diemMH": 5.4
+            }, {
+                "tenMonHoc": "tin hoc dai cuong",
+                "soTC": 2,
+                "diemMH": 5.5
+            }, {
+                "tenMonHoc": "lap trinh can ban",
+                "soTC": 2,
+                "diemMH": 5.6
+            }, {
+                "tenMonHoc": "triet",
+                "soTC": 2,
+                "diemMH": 5.7
+            }]
+    }]
