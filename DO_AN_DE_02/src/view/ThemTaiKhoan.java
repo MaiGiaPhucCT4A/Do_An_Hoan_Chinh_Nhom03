@@ -191,7 +191,7 @@ public class ThemTaiKhoan extends javax.swing.JDialog {
 
             int n = ps.executeUpdate();// update dữ liệu lên
             if (txtUserName.getText().equals("") || txtPassword.getText().equals("") || txtConfirm.getText().equals("")) {
-                JOptionPane.showMessageDialog(rootPane, "Không để thông tin trống");
+                JOptionPane.showMessageDialog(rootPane, "Không được để thông tin trống");
             } else if (n != 0) {
                 JOptionPane.showMessageDialog(rootPane, "Đăng kí thành công");
             } else {

@@ -27,6 +27,7 @@ public class AddSinhVienATTT extends javax.swing.JDialog {
     private List<SinhVien> listSV;
     private HomeFrm home;
     private DataImp data = new DataImp();
+    
 
     public AddSinhVienATTT(java.awt.Frame parent, boolean modal) {
         super(parent, modal);
